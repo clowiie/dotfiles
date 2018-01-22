@@ -2,7 +2,7 @@
 source $HOME/.dotfiles/shell/aliases #alias
 source $HOME/.dotfiles/shell/env #environment variables
 
-ZSH_THEME="spaceship"
+ZSH_THEME="agnoster"
 
 plugins=(git node tmux command-not-found common-aliases git-flow docker archlinux npm pip zsh-syntax-highlighting yarn)
 
